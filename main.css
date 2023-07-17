@@ -16,7 +16,7 @@ body header {
     cursor: pointer;
     background-color: #FFCACC;
     text-align: center;
-    width: 10%;
+    width: 100px;
     height: 40px;
     border-radius: 40px;
     border-width: 1px;
@@ -27,7 +27,7 @@ body header {
 }
 
 body header img {
-    width: 30%;
+    width: 550px;
 }
 
 body form {
@@ -39,7 +39,7 @@ body form {
 body form input {
     margin-right: 1%;
     text-align: center;
-    width: 20%;
+    width: 450px;
     height: 40px;
     border-radius: 40px;
     background-image: linear-gradient(to right, #D4E2D4, #DBC4F0, #FFCACC);
@@ -49,7 +49,7 @@ body form input {
 
 body form button {
     cursor: pointer;
-    width: 10%;
+    width: 100px;
     height: 40px;
     border-radius: 40px;
     background-color: #D4E2D4;
